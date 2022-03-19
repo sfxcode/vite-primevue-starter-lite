@@ -9,6 +9,8 @@ Another starter (but with more complexity) with more vite plugins, i18n, validat
 
 THX to [antfu / Vitesse](https://github.com/antfu/vitesse) for his vite starter code.
 
+![primevue-uno-starter](primevue-uno-starter.png)
+
 ## Features
 
 - PrimeVue with Theme: Sakai (Free Admin Template)
