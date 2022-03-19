@@ -8,6 +8,6 @@ test('mount component', async () => {
 
   const wrapper = mount(AppFooter, {});
 
-  expect(wrapper.text()).toContain('Vite PrimeVue Starter');
+  expect(wrapper.text()).toContain('Vite PrimeVue with UnoCSS Starter');
 
 });
