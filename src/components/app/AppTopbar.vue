@@ -79,7 +79,7 @@ function toggle(event: any) {
 }
 
 function redirectToGithub(event: any) {
-  window.open('https://github.com/sfxcode/vite-primevue-starter', '_blank');
+  window.open('https://github.com/sfxcode/primevue-uno-starter', '_blank');
 }
 
 const emit = defineEmits(['menu-toggle', 'topbar-menu-toggle']);
