@@ -7,7 +7,7 @@ and first class PrimeVUE support.
 
 [![CI](https://github.com/sfxcode/vite-primevue-starter/actions/workflows/main.yml/badge.svg)](https://github.com/sfxcode/vite-primevue-starter/actions/workflows/main.yml)
 
-Another starter (but with more complexity) with more vite plugins, i18n, validation examples etc. can be found under [vite-prime-vue-starter](vite-prime-vue-starter.png).
+Another starter (but with more complexity) with more vite plugins, i18n, validation examples etc. can be found under [vite-prime-vue-starter](https://github.com/sfxcode/vite-primevue-starter).
 
 THX to [antfu / Vitesse](https://github.com/antfu/vitesse) for his vite starter code.
 
