@@ -3,8 +3,6 @@
 Build your VUE.js App with the latest and fastest VITE Plugins (nuxt.js like)
 and first class PrimeVUE support.
 
-![primevue-uno-starter](primevue-uno-starter.png)
-
 [![CI](https://github.com/sfxcode/primevue-uno-starter/actions/workflows/main.yml/badge.svg)](https://github.com/sfxcode/vite-primevue-starter/actions/workflows/main.yml)
 
 Another starter (but with more complexity) with more vite plugins, i18n, validation examples etc. can be found under [vite-prime-vue-starter](https://github.com/sfxcode/vite-primevue-starter).
