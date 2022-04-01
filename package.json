@@ -38,7 +38,7 @@
     "@unocss/preset-icons": "^0.29.3",
     "@unocss/preset-typography": "^0.29.3",
     "@vitejs/plugin-vue": "^2.2.4",
-    "@vitest/ui": "^0.7.6",
+    "@vitest/ui": "^0.8.1",
     "@vue/babel-preset-app": "^5.0.3",
     "@vue/compiler-sfc": "^3.2.31",
     "@vue/eslint-config-standard": "~6.1.0",
