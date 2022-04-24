@@ -30,6 +30,40 @@ THX to [antfu / Vitesse](https://github.com/antfu/vitesse) for his vite starter 
 - pinia
 - primevue
 
+## Variations
+
+### nuxt3-primevue-starter
+
+Nuxt3 Primevue Starter Template
+
+[Github Repository](https://github.com/sfxcode/nuxt3-primevue-starter)
+
+[App on Netlify](https://nuxt3-primevue-starter.netlify.app/)
+
+- [Nuxt 3](https://v3.nuxtjs.org) - SSR, ESR, File-based routing, components auto importing, modules, etc.
+- Vite - Instant HMR
+- [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
+- Use icons from any icon sets in Pure CSS, powered by [UnoCSS](https://github.com/antfu/unocss)
+- [State Management via Pinia](https://pinia.esm.dev)
+- PrimeVue 3.12.x
+- Logging
+
+### vite-primevue-starter
+
+Vite Primevue Starter Template with more options
+
+[Github Repository](https://github.com/sfxcode/vite-primevue-starter)
+
+[App on Netlify](https://vite-primevue-starter.netlify.app/)
+
+* Pages, Layouts, and other NUXT like features by VITE Plugins
+* UnoCSS
+* Markdown
+* CachedPiniaStore
+* i18n
+* Validation
+* ...
+
 ## Project setup and usage
 
 Install node:
